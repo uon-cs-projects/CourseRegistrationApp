@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">CourseRegistrationApp</string>
+    <string name="title_registration">Course Registration</string>
+    <string name="hint_student_id">Enter Student ID</string>
+    <string name="btn_register">Register</string>
+    <string name="btn_back">Go Back</string>
+
+    <string-array name="course_units">
+        <item>Data Structures</item>
+        <item>Database Systems</item>
+        <item>Software Engineering</item>
+    </string-array>
+</resources>
