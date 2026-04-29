@@ -4,6 +4,12 @@
     <string name="hint_student_id">Enter Student ID</string>
     <string name="btn_register">Register</string>
     <string name="btn_back">Go Back</string>
+    <string name="remove">Remove</string>
+    <string name="my_registered_courses">My Registered Courses</string>
+    <string name="search_course_code_or_name">Search Course Code or Name</string>
+    <string name="enter_student_id">Enter Student ID</string>
+    <string name="register_course">Register Course</string>
+    <string name="view_registered_courses">View Registered Courses</string>
 
     <string-array name="course_units">
         <item>Data Structures</item>
